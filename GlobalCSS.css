@@ -1,0 +1,31 @@
+.navContainer
+{
+
+display: flex;
+justify-content: space-evenly;
+background-color: #474643;
+margin-top: -0.5rem;
+margin-left: -1rem;
+margin-right: -1rem;
+color: white;
+font-size: 2rem;
+}
+a
+{
+  color: white;
+}
+body{
+  color: white;
+}
+.footContainer
+{
+  display: flex;
+  position: static;
+  justify-content: space-evenly;
+  color: white;
+  margin-top: 35rem;
+  background-color: #626b70;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  font-size: 2rem;
+}

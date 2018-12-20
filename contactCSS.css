@@ -1,0 +1,39 @@
+body
+{
+  background-image: url("../images/nhmtn.jpg");
+  background-repeat: no-repeat;
+  background-position: 75% 25%;
+  background-size: cover;
+}
+h1
+{
+color: white;
+}
+.contactContainer1
+{
+color: white;
+padding: 1rem;
+margin-left: 3rem;
+}
+.contactContainer2
+{
+color: white;
+margin-left: 2.5rem;
+padding: 1rem;
+}
+.textbox label
+{
+margin-top: 5rem;
+}
+textarea
+{
+  width: 60rem;
+}
+.contactInsta img
+{
+max-width: 7rem;
+}
+.contactLinkedIn img
+{
+max-width: 7rem;
+}
