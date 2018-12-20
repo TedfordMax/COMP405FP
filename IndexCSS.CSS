@@ -1,0 +1,28 @@
+body
+{
+  background-image: url("mephoto.jpg");
+  background-repeat: no-repeat;
+  background-position: 75% 25%;
+  background-size: cover;
+}
+
+.indexName
+{
+display: flex;
+font-size: 6rem;
+text-indent: 16rem;
+margin-top: 10rem;
+}
+
+.indexInfo1
+{
+text-indent: 20rem;
+}
+.indexInfo2
+{
+  text-indent: 24rem;
+}
+.indexInfo3
+{
+  text-indent: 19rem;
+}
